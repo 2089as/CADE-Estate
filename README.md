@@ -1,4 +1,3 @@
 # CADE-Estate
 
-![CADE-Estate](https://github.com/2089as/CADE-Estate/CADEestate.png
-)
+![CADE-Estate](https://raw.githubusercontent.com/2089as/CADE-Estate/main/CADEestate.png)
